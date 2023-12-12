@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1{
+  margin: 2rem;
+  text-align: center;
+  text-decoration: underline;
+  color: crimson;
+}
+.posts{
+ background-color: aqua;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+ padding: 2rem;
+}
+
+.post{
+ box-shadow: 0 4px 8px black;
+ width: 48%;
+ background-color: white;
+border-radius: 5px;
+padding: 8px;
+margin: 8px;
+}
+
+.post:hover{
+  box-shadow: 0 8px 16px black;
+  
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
